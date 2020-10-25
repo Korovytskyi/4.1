@@ -1,5 +1,8 @@
 ﻿// 4.1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// < Коровицький Тарас >
+// Лабораторна робота № 4.1
+//Цикли.
+// Варіант 13
 
 #include <iostream>
 #include <cmath>
